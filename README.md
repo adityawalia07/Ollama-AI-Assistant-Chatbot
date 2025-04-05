@@ -142,4 +142,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+
+# Output
+
+
+https://github.com/user-attachments/assets/60896398-b63b-49da-bd37-186543479079
+
+
 Built with ❤️ using Streamlit, LangChain and Ollama
